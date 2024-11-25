@@ -32,10 +32,7 @@ class TodoHomePage extends StatefulWidget {
 }
 
 class TodoHomePageState extends State<TodoHomePage> {
-  final List<Todo> tasks = [
-    // Todo(name: 'Task 1', taskStatus: TaskStatus.not_done),
-    // Todo(name: 'Task 2', taskStatus: TaskStatus.not_done),
-  ];
+  final List<Todo> tasks = [];
   final TextEditingController controller = TextEditingController();
 
   void addTodo() {
