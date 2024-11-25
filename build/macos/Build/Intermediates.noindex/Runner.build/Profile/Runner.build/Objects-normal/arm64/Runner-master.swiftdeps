@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "fc480abf76116969238a6c594ee87354b2e01f6e27299904666c9c799ecd3a80"
+build_start_time: [1732350563, 424357000]
+build_end_time: [1732350615, 900806000]
+inputs:
+  ? "/Users/catarina/Documents/StudyFlutter/build/macos/Build/Intermediates.noindex/Runner.build/Profile/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1732350560, 552956454]
+  "/Users/catarina/Documents/StudyFlutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1732350354, 873625285]
+  "/Users/catarina/Documents/StudyFlutter/macos/Runner/AppDelegate.swift": [1731546574, 0]
+  "/Users/catarina/Documents/StudyFlutter/macos/Runner/MainFlutterWindow.swift": [1731546574, 0]

@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/catarina/Documents/StudyFlutter/build/macos/Build/Products/Profile/study_code_day_1.app/Contents/MacOS/study_code_day_1'
+relocations:
+  - { offset: 0xCA0C8, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_117MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000027B0, symSize: 0xE4 }
+  - { offset: 0xCA1D3, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_117MainFlutterWindowCMa', symObjAddr: 0x1A0, symBinAddr: 0x100002950, symSize: 0x20 }
+  - { offset: 0xCA26F, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_117MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000027B0, symSize: 0xE4 }
+  - { offset: 0xCA392, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_117MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleJ0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xE4, symBinAddr: 0x100002894, symSize: 0x8C }
+  - { offset: 0xCA3D7, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_117MainFlutterWindowCfD', symObjAddr: 0x170, symBinAddr: 0x100002920, symSize: 0x30 }
+  - { offset: 0xCA4DB, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_111AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100002970, symSize: 0x8 }
+  - { offset: 0xCA56C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x74, symBinAddr: 0x1000029E4, symSize: 0x28 }
+  - { offset: 0xCA5B6, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_111AppDelegateCMa', symObjAddr: 0x9C, symBinAddr: 0x100002A0C, symSize: 0x20 }
+  - { offset: 0xCA5FA, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_111AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100002970, symSize: 0x8 }
+  - { offset: 0xCA627, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_111AppDelegateCACycfcTo', symObjAddr: 0x8, symBinAddr: 0x100002978, symSize: 0x3C }
+  - { offset: 0xCA662, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_111AppDelegateCfD', symObjAddr: 0x44, symBinAddr: 0x1000029B4, symSize: 0x30 }
+  - { offset: 0xCA78E, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_119ResourceBundleClass33_2F664B26C9CDE83FFDB6AF2035EEA499LLCfD', symObjAddr: 0x0, symBinAddr: 0x100002A2C, symSize: 0x10 }
+  - { offset: 0xCA7D0, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_119ResourceBundleClass33_2F664B26C9CDE83FFDB6AF2035EEA499LLCMa', symObjAddr: 0x10, symBinAddr: 0x100002A3C, symSize: 0x20 }
+  - { offset: 0xCA7EB, size: 0x8, addend: 0x0, symName: '_$s16study_code_day_119ResourceBundleClass33_2F664B26C9CDE83FFDB6AF2035EEA499LLCfD', symObjAddr: 0x0, symBinAddr: 0x100002A2C, symSize: 0x10 }
+...
